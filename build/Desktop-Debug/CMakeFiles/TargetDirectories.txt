@@ -1,0 +1,9 @@
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/QTBandwithMonitor.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/install.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/install/local.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps.dir
+/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/CMakeFiles/QTBandwithMonitor_autogen.dir
