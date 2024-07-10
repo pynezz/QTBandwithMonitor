@@ -15,7 +15,7 @@ void BandwidthMonitor::stopMonitoring() {
 BandwidthMonitor::BandwidthData BandwidthMonitor::getBandwidthData() {
     BandwidthData data;
     // Calculate current and average bandwidth
-    data.currentBandwidth = 100.0; // Placeholder value
-    data.averageBandwidth = 90.0;  // Placeholder value
+    data.currentBandwidth = 0;
+    data.averageBandwidth = 0;
     return data;
 }
