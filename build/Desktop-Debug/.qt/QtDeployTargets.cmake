@@ -1,2 +1,2 @@
-set(__QT_DEPLOY_TARGET_QTBandwithMonitor_FILE /run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/QTBandwithMonitor)
-set(__QT_DEPLOY_TARGET_QTBandwithMonitor_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_QTBandwidthMonitor_FILE /run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/QTBandwidthMonitor)
+set(__QT_DEPLOY_TARGET_QTBandwidthMonitor_TYPE EXECUTABLE)

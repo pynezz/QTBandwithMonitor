@@ -380,6 +380,36 @@
 		"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake",
 		"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake",
 		"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkDependencies.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6NetworkPlugins.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QGlibNetworkInformationPluginConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QGlibNetworkInformationPluginTargets.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QGlibNetworkInformationPluginTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QGlibNetworkInformationPluginAdditionalTargetInfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QNetworkManagerNetworkInformationPluginConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QNetworkManagerNetworkInformationPluginTargets.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QNetworkManagerNetworkInformationPluginTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QNetworkManagerNetworkInformationPluginAdditionalTargetInfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginAdditionalTargetInfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake",
+		"/usr/lib64/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake",
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "/run/media/k/luks2/Prosjekter/QTBandwithMonitor",
@@ -397,6 +427,12 @@
 			"/run/media/k/luks2/Prosjekter/QTBandwithMonitor/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/run/media/k/luks2/Prosjekter/QTBandwithMonitor/speedtest.h",
+			"MU",
+			"EWIEGA46WW/moc_speedtest.cpp",
 			null
 		]
 	],
@@ -470,6 +506,11 @@
 		],
 		[
 			"/run/media/k/luks2/Prosjekter/QTBandwithMonitor/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/run/media/k/luks2/Prosjekter/QTBandwithMonitor/speedtest.cpp",
 			"MU",
 			null
 		]

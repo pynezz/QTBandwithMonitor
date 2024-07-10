@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/QTBandwithMonitor.dir/main.cpp.o.d"
   "CMakeFiles/QTBandwithMonitor.dir/mainwindow.cpp.o"
   "CMakeFiles/QTBandwithMonitor.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/QTBandwithMonitor.dir/speedtest.cpp.o"
+  "CMakeFiles/QTBandwithMonitor.dir/speedtest.cpp.o.d"
   "QTBandwithMonitor"
   "QTBandwithMonitor.pdb"
   "QTBandwithMonitor_autogen/mocs_compilation.cpp"

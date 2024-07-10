@@ -66,10 +66,10 @@ include CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps.dir/compiler_depend.
 # Include the progress variables for this target.
 include CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps.dir/progress.make
 
-CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps: /usr/lib64/qt6/libexec/moc
-CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps: /usr/lib64/qt6/libexec/uic
-CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps: /usr/lib64/libQt6Core.so.6.7.2
 CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps: /usr/lib64/libQt6Widgets.so.6.7.2
+CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps: /usr/lib64/qt6/libexec/uic
+CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps: /usr/lib64/qt6/libexec/moc
+CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps: /usr/lib64/libQt6Core.so.6.7.2
 
 QTBandwithMonitor_autogen_timestamp_deps: CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps
 QTBandwithMonitor_autogen_timestamp_deps: CMakeFiles/QTBandwithMonitor_autogen_timestamp_deps.dir/build.make

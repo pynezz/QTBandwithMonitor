@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/run/media/k/luks2/Prosjekter/QTBandwithMonitor/bandwidthmonitor.cpp" "CMakeFiles/QTBandwithMonitor.dir/bandwidthmonitor.cpp.o" "gcc" "CMakeFiles/QTBandwithMonitor.dir/bandwidthmonitor.cpp.o.d"
   "/run/media/k/luks2/Prosjekter/QTBandwithMonitor/main.cpp" "CMakeFiles/QTBandwithMonitor.dir/main.cpp.o" "gcc" "CMakeFiles/QTBandwithMonitor.dir/main.cpp.o.d"
   "/run/media/k/luks2/Prosjekter/QTBandwithMonitor/mainwindow.cpp" "CMakeFiles/QTBandwithMonitor.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/QTBandwithMonitor.dir/mainwindow.cpp.o.d"
+  "/run/media/k/luks2/Prosjekter/QTBandwithMonitor/speedtest.cpp" "CMakeFiles/QTBandwithMonitor.dir/speedtest.cpp.o" "gcc" "CMakeFiles/QTBandwithMonitor.dir/speedtest.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
