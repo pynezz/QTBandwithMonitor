@@ -1,6 +1,6 @@
 # QT Bandwidth monitor
 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)
  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
 
 *test project to explore QT (pronounced cute) and C++*
