@@ -76,4 +76,5 @@ CMakeLists.txt.user*
 
 # Builds
 
-build/
+build/*
+

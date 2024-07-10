@@ -188,7 +188,7 @@ CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 CMAKE_PROJECT_INCLUDE_BEFORE:FILEPATH=/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=QTBandwithMonitor
+CMAKE_PROJECT_NAME:STATIC=QTBandwidthMonitor
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=0.1
@@ -311,6 +311,15 @@ PKG_CONFIG_ARGN:STRING=
 
 //pkg-config executable
 PKG_CONFIG_EXECUTABLE:FILEPATH=/usr/bin/pkg-config
+
+//Value Computed by CMake
+QTBandwidthMonitor_BINARY_DIR:STATIC=/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug
+
+//Value Computed by CMake
+QTBandwidthMonitor_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+QTBandwidthMonitor_SOURCE_DIR:STATIC=/run/media/k/luks2/Prosjekter/QTBandwithMonitor
 
 //Value Computed by CMake
 QTBandwithMonitor_BINARY_DIR:STATIC=/run/media/k/luks2/Prosjekter/QTBandwithMonitor/build/Desktop-Debug
