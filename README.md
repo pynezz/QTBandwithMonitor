@@ -13,8 +13,8 @@ especially Unitys new UI framework (UI Toolkit) which leverage markup language s
 Having a good experience with QT so far with my slow but steady progress and exploration, connecting the value of a dial to a label.
 
 <div style="display:flex; flex-direction: row; border-radius:10px; width: 100%;">
-![initial results](./assets/initial.png)
-![text updating label](./assets/457mbps.png)
+	<img src="./assets/initial.png" alt="initial results" />
+	<img src="./assets/457mbps.png" alt="dial updating text label" />
 </div>
 
 ## Future plans
