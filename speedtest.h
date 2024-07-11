@@ -19,7 +19,7 @@ public slots:
     void startSpeedTest();
 
 private slots:
-    void onDownloadFinished(QNetworkReply *reply);
+    void onDownloadFinished(QNetworkReply* reply);
 
 private:
     QNetworkAccessManager *networkManager;
