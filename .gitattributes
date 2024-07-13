@@ -1,4 +1,6 @@
 *.make linguist-vendored
+build/*/** linguist-vendored
+build/* linguist-vendored
 build/Desktop-Debug/CMakeFiles/QTBandwithMonitor.dir/*.make linguist-vendored
 *.cmake linguist-vendored
 *.d linguist-vendored
